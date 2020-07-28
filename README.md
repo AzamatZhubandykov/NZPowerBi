@@ -3,10 +3,10 @@ My pick for the Power BI final project was “environmental protection expenditu
   In general, Environmental  protection expenditure term used to describe all goods and services aimed at protecting the environment and encourage 
 the sustainable use of natural resources. I am close to this topic, and one of citizens who cares about the environment. And my first thought was 
 that analyzing New Zealand, could be a good example of how to save the environment for future generation.  <br/>
-Hypothesis and what I expected   <br/>
+**Hypothesis and what I expected**   <br/>
 When I started Data cleaning part, I was interested in 6 unique parameters in class column.    <br/>
 It consisted from Total, Wastewater, Solid waste/refuse, Air and water quality, Flood, river, land, Pest management includes both animal and plant.  <br/>
-And let me explain each of them individual.
+**And let me explain each of them individual.**
 -	Wastewater reticulation of sewage, sewerage treatment: oxidation ponds and on land disposal, stormwater (the water that runs off surfaces such as roads, driveways, 
 footpaths, and rooftops).
 -	Solid waste/refuse includes collection and disposal.
@@ -23,10 +23,10 @@ I found out that General Government comprises the New Zealand Treasury
 and other central and local government entities. Which means that their in charge for everything.  <br/>
 Central government and General government made every year the same amount of investment, and its 6 times. However Local Government made it 26 times every year, 
 but Local has only 10% of budget ever made in this country.  <br/>
-To summarize columns I used DAX formula:  <br/>
+**To summarize columns I used DAX formula:**  <br/>
 Dax budget by year = SUMMARIZECOLUMNS('environmental protection'[year];'environmental protection'[budget])  <br/>
 This formula gave me opportunity to use these two columns separately.   <br/>
-Moreover, I made another three metrics 
+**Moreover, I made another three metrics **
 -	Budget Local = SUMX(FILTER('environmental protection';'environmental protection'[sector]="Local Government"); 'environmental protection'[budget])
 -	Budget General = SUMX(FILTER('environmental protection';'environmental protection'[sector]="General government"); 'environmental protection'[budget])
 -	Budget Central = SUMX(FILTER('environmental protection';'environmental protection'[sector]="Central government");'environmental protection'[budget])
