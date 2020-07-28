@@ -1,7 +1,7 @@
 # NZPowerBi
-My pick for the Power BI final project was “environmental protection expenditure account by 2009-18” dataset. 
-  In general, Environmental  protection expenditure term used to describe all goods and services aimed at protecting the environment and encourage 
-the sustainable use of natural resources. I am close to this topic, and one of citizens who cares about the environment. And my first thought was
+My pick for the Power BI final project was “environmental protection expenditure account by 2009-18” dataset. <br/>
+  In general, Environmental  protection expenditure term used to describe all goods and services aimed at protecting the environment and encourage  <br/>
+the sustainable use of natural resources. I am close to this topic, and one of citizens who cares about the environment. And my first thought was <br/>
 that analyzing New Zealand, could be a good example of how to save the environment for future generation.
 Hypothesis and what I expected 
 When I started Data cleaning part, I was interested in 6 unique parameters in class column.  
