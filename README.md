@@ -4,7 +4,7 @@ My pick for the Power BI final project was “environmental protection expenditu
 the sustainable use of natural resources. I am close to this topic, and one of citizens who cares about the environment. And my first thought was 
 that analyzing New Zealand, could be a good example of how to save the environment for future generation.  <br/>
 **Hypothesis and what I expected**   <br/>
-When I started Data cleaning part, I was interested in 6 unique parameters in class column.    <br/>
+When I started Data cleaning part, I was interested in 6 unique parameters in class column.
 It consisted from Total, Wastewater, Solid waste/refuse, Air and water quality, Flood, river, land, Pest management includes both animal and plant.  <br/>
 **And let me explain each of them individual.**
 -	Wastewater reticulation of sewage, sewerage treatment: oxidation ponds and on land disposal, stormwater (the water that runs off surfaces such as roads, driveways, 
