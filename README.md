@@ -7,13 +7,13 @@ Hypothesis and what I expected
 When I started Data cleaning part, I was interested in 6 unique parameters in class column.  
 It consisted from Total, Wastewater, Solid waste/refuse, Air and water quality, Flood, river, land, Pest management includes both animal and plant.
 And let me explain each of them individual.
-•	Wastewater reticulation of sewage, sewerage treatment: oxidation ponds and on land disposal, stormwater (the water that runs off surfaces such as roads, driveways, 
+>	Wastewater reticulation of sewage, sewerage treatment: oxidation ponds and on land disposal, stormwater (the water that runs off surfaces such as roads, driveways, 
 footpaths, and rooftops).
-•	Solid waste/refuse includes collection and disposal.
-•	Air and water quality includes any measurement and analysis of air and/or water quality and education. Also includes dairy effluent.
-•	Flood, river, land and soil management.
-•	Pest management includes both animal and plant. Pests are defined as organisms that serious adverse and unintended effect on people and/or the environment.
-•	Total – I guess it to identify all possible source of environmental pollution.
+>	Solid waste/refuse includes collection and disposal.
+>	Air and water quality includes any measurement and analysis of air and/or water quality and education. Also includes dairy effluent.
+>	Flood, river, land and soil management.
+>	Pest management includes both animal and plant. Pests are defined as organisms that serious adverse and unintended effect on people and/or the environment.
+>	Total – I guess it to identify all possible source of environmental pollution.
 
 And my hypothesis was that Air and Water quality is major priority for New Zealand. And they will spend most of their money on it. 
 Next hypothesis was based on sector column. 
